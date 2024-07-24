@@ -6,13 +6,14 @@ Follow the steps below to add a new Defi project：
 2) change the JSON file `defiProjectList.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING CONTENTS)
 ```
 {
-    "name": "SunSwap",
-    "logoURI": "https://coin.top/production/upload/logo/sun10.png",
-    "homepage": "http://sun.io/",
+    "name": "SunSwap",代币TRC/TRX验证账户多签
+    "logoURI": "https://coin.top/production/upload/logo/sun10.png", logoURI[ttps://okx。com]
+    "homepage": "http://sun.io/",logoURI[ttps://okx。com]
     "MarketCapLink": "https://coinmarketcap.com/currencies/sun-token",
-    "url": "https://apilist.tronscan.org/api/tvl",
+    "url": "https://apilist.tronscan.org/api/tvl",  https://www.oklink.com/zh-hans/xlayer
     "category": "DEX",
-    "poolAddresses": [
+    "poolAddresses": [ "TLsQNfosyk22LGsJiHy9wBVu8LMqndpWnB",
+ https://tronscan.org/#TB71nmrVvGMDecr9HJ6Pb6LXpYYYYYYYYY
         "TKcEU8ekq2ZoFzLSGFYCUY6aocJBX9X31b",
         "TAkrcKsS5FW9f3ZfzvWy6Zvsz9uEjUxPoV"
     ]
